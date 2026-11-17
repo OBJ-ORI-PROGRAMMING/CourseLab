@@ -230,12 +230,12 @@ class Catalog {
         private String code;
  
         Entry(String code) {
-            // TODO: Initialize code.
+        
             this.code = code;
         }
  
         void print() {
-            // TODO: Print code.
+        
             System.out.println(code);
         }
     }
